@@ -22,7 +22,11 @@ http://checkrelianceAPI.glotechasp.com/WS/mobileApp.svc/verificationrequest?apiL
 
 ### Preview Document:
 
+[Open Word Document on GitHub]([https://github.com/your_username/your_repository/blob/main/your_word_document.docx](https://github.com/bilal6005/Bilal_Project/blob/main/JWTAuthentication.docx))
 
+### Download Document:
+
+[Download Word Document]([https://github.com/your_username/your_repository/raw/main/your_word_document.docx](https://github.com/bilal6005/Bilal_Project/blob/main/JWTAuthentication.docx))
 
 #### Case 1:
 API checks the parameters in every request URL. If parameters are not found, API returns the JSON response with status code 401.
