@@ -22,7 +22,7 @@ http://checkrelianceAPI.glotechasp.com/WS/mobileApp.svc/verificationrequest?apiL
 
 ### Preview Document:
 
-[Open Word Document](https://github.com/bilal6005/Bilal_Project/blob/main/JWTAuthentication.docx)
+[Open Word Document on GitHub](https://github.com/bilal6005/Bilal_Project/blob/main/JWTAuthentication.docx)
 
 ### Download Document:
 
