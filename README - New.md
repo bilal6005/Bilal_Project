@@ -18,6 +18,8 @@ http://checkrelianceAPI.glotechasp.com/WS/mobileApp.svc/verificationrequest?apiL
 
 ### WORKFLOW:
 
+![Workflow Image]([https://example.com/workflow.png](https://github.com/bilal6005/Bilal_Project/blob/main/Screenshot%202024-04-30%20144509.png))  
+
 #### Case 1:
 API checks the parameters in every request URL. If parameters are not found, API returns the JSON response with status code 401.
 
